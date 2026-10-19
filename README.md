@@ -18,7 +18,7 @@
 |---|---|---|---|
 | [Real-Full-Installer](https://github.com/adksetup/Real-Full-Installer) | 完整安装包制作与静默安装工具，自动适配 brew / apt 包管理器（已发布 v0.2） | macOS / Linux | 已发布 |
 | [Pip-GUI](https://github.com/adksetup/Pip-GUI) | 图形化 Pip 包管理工具，可视化执行安装 / 卸载 / 检索（已发布 v0.1） | Windows / macOS / Linux | 已发布 |
-| [QPALZM-Web-Search](https://github.com/adksetup/QPALZM-Web-Search) | macOS 专用网页搜索 GUI 工具，支持百度、必应检索与自定义网址打开（已发布 v0.1） | macOS | 已发布 |
+| [QPALZM-Web-Search](https://github.com/adksetup/QPALZM-Web-Search) | macOS/Windows 网页搜索 GUI 工具，支持百度、必应检索与自定义网址打开（已发布 v0.2） | macOS / Windows | 已发布 |
 | [Brew-GUI](https://github.com/adksetup/Brew-GUI) | macOS / Linux 图形化 Homebrew 管理工具，无需敲终端命令（已发布 v0.1） | macOS / Linux | 已发布 |
 
 ## 设计理念
