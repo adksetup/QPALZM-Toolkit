@@ -57,7 +57,7 @@ A lightweight collection of practical utilities by AdkSetup, focused on solving 
 |---|---|---|---|
 | [Real-Full-Installer](https://github.com/adksetup/Real-Full-Installer) | Complete installer builder and silent installation tool, auto-adapts to brew / apt package managers (v0.2 released) | macOS / Linux | Released |
 | [Pip-GUI](https://github.com/adksetup/Pip-GUI) | Graphical Pip package manager for visual install / uninstall / search (v0.1 released) | Windows / macOS / Linux | Released |
-| [QPALZM-Web-Search](https://github.com/adksetup/QPALZM-Web-Search) | macOS-only web search GUI tool with Baidu, Bing search and custom URL opening (v0.1 released) | macOS | Released |
+| [QPALZM-Web-Search](https://github.com/adksetup/QPALZM-Web-Search) | macOS / Windows web search GUI tool with Baidu, Bing search and custom URL opening (v0.3 released) | macOS / Windows | Released |
 | [Brew-GUI](https://github.com/adksetup/Brew-GUI) | Graphical Homebrew manager for macOS and Linux — no terminal required (v0.1 released) | macOS / Linux | Released |
 
 ## Design Philosophy
